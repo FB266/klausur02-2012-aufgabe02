@@ -1,2 +1,2 @@
-klausur02-2012-aufgabe02
+Klausur Nr.2 2012 - Aufgabe 2
 ========================
