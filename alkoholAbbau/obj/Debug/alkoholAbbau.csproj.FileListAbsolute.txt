@@ -1,0 +1,10 @@
+C:\Users\Nils\AppData\Local\Temporary Projects\alkoholAbbau\bin\Debug\alkoholAbbau.exe
+C:\Users\Nils\AppData\Local\Temporary Projects\alkoholAbbau\bin\Debug\alkoholAbbau.pdb
+C:\Users\Nils\AppData\Local\Temporary Projects\alkoholAbbau\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nils\AppData\Local\Temporary Projects\alkoholAbbau\obj\Debug\alkoholAbbau.Form1.resources
+C:\Users\Nils\AppData\Local\Temporary Projects\alkoholAbbau\obj\Debug\alkoholAbbau.Properties.Resources.resources
+C:\Users\Nils\AppData\Local\Temporary Projects\alkoholAbbau\obj\Debug\alkoholAbbau.csproj.GenerateResource.Cache
+C:\Users\Nils\AppData\Local\Temporary Projects\alkoholAbbau\obj\Debug\alkoholAbbau.exe
+C:\Users\Nils\AppData\Local\Temporary Projects\alkoholAbbau\obj\Debug\alkoholAbbau.pdb
+C:\Users\Nils\Documents\Visual Studio 2008\Projects\alkoholAbbau\alkoholAbbau\obj\Debug\alkoholAbbau.exe
+C:\Users\Nils\Documents\Visual Studio 2008\Projects\alkoholAbbau\alkoholAbbau\obj\Debug\alkoholAbbau.pdb
